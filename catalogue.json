@@ -93,20 +93,25 @@
       "attendre": {
         "SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"
       },
-      "version": "1.0.0",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/mod-j1j4-1.0.0/mod-j1j4-1.0.0.zip",
-      "sha256": "3141c0fc664974c8cc673d7a9da22a5c4fa6884690bf70b31e2e8fb3708685e2",
+      "version": "1.0.1",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/mod-j1j4-1.0.1/mod-j1j4-1.0.1.zip",
+      "sha256": "d26e2f8cb1a237a614cfe9cccbcd3b6f6ea5e6b2527e9b40e36b566d6af18c2c",
       "mode": "hors-ligne",
-      "taille": 78360085,
-      "date": "2026-11-21",
+      "taille": 78360034,
+      "date": "2026-11-22",
       "historique": [
+        {
+          "version": "1.0.1",
+          "date": "2026-11-22",
+          "notes": "Corrige les plantages en combat avec des IA (le jeu plantait apres 30 s a 1 min)"
+        },
         {
           "version": "1.0.0",
           "date": "2026-11-21",
           "notes": "Niveaux IA Ultra+, Ultra++ et Ultime aussi en J1 contre IA (menu du jeu prolonge) ; Ultime ajoute au mode 4 joueurs ; niveaux ramenes au plafond du jeu (22, 23, 24)"
         }
       ],
-      "notes": "Niveaux IA Ultra+, Ultra++ et Ultime aussi en J1 contre IA (menu du jeu prolonge) ; Ultime ajoute au mode 4 joueurs ; niveaux ramenes au plafond du jeu (22, 23, 24)"
+      "notes": "Corrige les plantages en combat avec des IA (le jeu plantait apres 30 s a 1 min)"
     }
   ]
 }
