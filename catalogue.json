@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "hub": {
+    "version": "1.0.0",
+    "fichier": "",
+    "sha256": ""
+  },
+  "apps": [
+    {
+      "id": "minetrad",
+      "nom": "MineTrad",
+      "resume": "Traduit tes modpacks Minecraft",
+      "description": "Traduit les mods, quêtes et menus de tes modpacks Minecraft dans 33 langues (français par défaut).",
+      "icone": "icones/minetrad.png",
+      "type": "exe",
+      "dossier": "{localappdata}\\Programs\\MineTrad",
+      "exe": "MineTrad.exe",
+      "version": "1.0.0",
+      "fichier": "fichiers/minetrad-1.0.0.exe",
+      "sha256": "5e1e90933a7d969ad24261ae19a83374ea44f1063d2a87d37b0102b9ce3feedd",
+      "taille": 31075933,
+      "date": "2026-11-21",
+      "historique": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-21",
+          "notes": "Première version dans Smart Hub (33 langues)"
+        }
+      ],
+      "notes": "Première version dans Smart Hub (33 langues)"
+    },
+    {
+      "id": "lanceur-sparking",
+      "nom": "Lanceur Sparking",
+      "resume": "Gère tes mods Sparking Zero",
+      "description": "Active, désactive et partage les mods de Dragon Ball Sparking! ZERO, puis lance le jeu en un clic.",
+      "icone": "icones/lanceur-sparking.png",
+      "type": "installateur",
+      "dossier": "{localappdata}\\Programs\\LanceurSZ",
+      "exe": "LanceurSZ.exe",
+      "options": "/TASKS=\"bureau\"",
+      "attendre": {"SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"},
+      "version": "1.0.0",
+      "fichier": "fichiers/lanceur-sparking-1.0.0.exe",
+      "sha256": "e38cb00205e1e388a0e50d8a4acb4a5e7acb3c16eccd644c12967dd47f07d1c7",
+      "taille": 22446992,
+      "date": "2026-11-21",
+      "historique": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-21",
+          "notes": "Première version dans Smart Hub"
+        }
+      ],
+      "notes": "Première version dans Smart Hub"
+    }
+  ]
+}
