@@ -68,6 +68,35 @@
         }
       ],
       "notes": "Nouveau logo"
+    },
+    {
+      "id": "mod-j1j4",
+      "nom": "Mod J1-J4",
+      "categorie": "mod",
+      "resume": "Combat local à 4 joueurs",
+      "description": "Jouez à 4 sur le même PC dans Dragon Ball Sparking! ZERO, de J1 à J4, chacun avec sa manette. Il se branche tout seul quand tu lances le jeu avec le Lanceur Sparking.",
+      "icone": "icones/mod-j1j4.png",
+      "type": "zip",
+      "dossier": "{documents}\\Smart Hub\\Mod J1-J4",
+      "exe": "launcher.py",
+      "lanceur_sz": true,
+      "attendre": {
+        "SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"
+      },
+      "version": "1.0.0",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/mod-j1j4-1.0.0/mod-j1j4-1.0.0.zip",
+      "sha256": "3141c0fc664974c8cc673d7a9da22a5c4fa6884690bf70b31e2e8fb3708685e2",
+      "mode": "hors-ligne",
+      "taille": 78360085,
+      "date": "2026-11-21",
+      "historique": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-21",
+          "notes": "Niveaux IA Ultra+, Ultra++ et Ultime aussi en J1 contre IA (menu du jeu prolonge) ; Ultime ajoute au mode 4 joueurs ; niveaux ramenes au plafond du jeu (22, 23, 24)"
+        }
+      ],
+      "notes": "Niveaux IA Ultra+, Ultra++ et Ultime aussi en J1 contre IA (menu du jeu prolonge) ; Ultime ajoute au mode 4 joueurs ; niveaux ramenes au plafond du jeu (22, 23, 24)"
     }
   ]
 }
