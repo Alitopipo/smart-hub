@@ -50,12 +50,17 @@
       "attendre": {
         "SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"
       },
-      "version": "1.0.2",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/lanceur-sparking-1.0.2/lanceur-sparking-1.0.2.exe",
-      "sha256": "62d0e3e03eaa7f3372b3f2edf8ebad50426af620aeff0bb2f88083287a3f2b70",
-      "taille": 22879494,
-      "date": "2026-11-21",
+      "version": "1.0.3",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/lanceur-sparking-1.0.3/lanceur-sparking-1.0.3.exe",
+      "sha256": "c4c2bca357caf940b41cd6f4fb69a21720cdaa8a1bb930e2dc7ad53d43bafd15",
+      "taille": 22467863,
+      "date": "2026-11-22",
       "historique": [
+        {
+          "version": "1.0.3",
+          "date": "2026-11-22",
+          "notes": "Retour du logo d'origine (carré bleu SZ)"
+        },
         {
           "version": "1.0.2",
           "date": "2026-11-21",
@@ -72,7 +77,7 @@
           "notes": "Première version dans Smart Hub"
         }
       ],
-      "notes": "Mise à jour du Mod J1-J4 directement depuis le Lanceur (bouton orange quand une nouvelle version sort)"
+      "notes": "Retour du logo d'origine (carré bleu SZ)"
     },
     {
       "id": "mod-j1j4",
