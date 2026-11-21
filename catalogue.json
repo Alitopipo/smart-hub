@@ -16,11 +16,16 @@
       "dossier": "{localappdata}\\Programs\\MineTrad",
       "exe": "MineTrad.exe",
       "version": "1.0.0",
-      "fichier": "fichiers/minetrad-1.0.0.exe",
-      "sha256": "5e1e90933a7d969ad24261ae19a83374ea44f1063d2a87d37b0102b9ce3feedd",
-      "taille": 31075933,
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/minetrad-1.0.0/minetrad-1.0.0.exe",
+      "sha256": "f3770f0713c95bfb2fde847511f411ca1f6160fb3d7f066ac72ddc50b7b38b1c",
+      "taille": 31476020,
       "date": "2026-11-21",
       "historique": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-21",
+          "notes": "Première version dans Smart Hub (33 langues)"
+        },
         {
           "version": "1.0.0",
           "date": "2026-11-21",
@@ -39,7 +44,9 @@
       "dossier": "{localappdata}\\Programs\\LanceurSZ",
       "exe": "LanceurSZ.exe",
       "options": "/TASKS=\"bureau\"",
-      "attendre": {"SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"},
+      "attendre": {
+        "SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"
+      },
       "version": "1.0.0",
       "fichier": "fichiers/lanceur-sparking-1.0.0.exe",
       "sha256": "e38cb00205e1e388a0e50d8a4acb4a5e7acb3c16eccd644c12967dd47f07d1c7",
