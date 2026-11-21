@@ -48,11 +48,16 @@
         "SparkingZERO-Win64-Shipping.exe": "Dragon Ball Sparking! ZERO"
       },
       "version": "1.0.0",
-      "fichier": "fichiers/lanceur-sparking-1.0.0.exe",
-      "sha256": "e38cb00205e1e388a0e50d8a4acb4a5e7acb3c16eccd644c12967dd47f07d1c7",
-      "taille": 22446992,
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/lanceur-sparking-1.0.0/lanceur-sparking-1.0.0.exe",
+      "sha256": "a74241df7a72979c9be0f2e8c87c2c55698e9d8bfb76a8aa8b197557f248d4a2",
+      "taille": 22447966,
       "date": "2026-11-21",
       "historique": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-21",
+          "notes": "Première version dans Smart Hub"
+        },
         {
           "version": "1.0.0",
           "date": "2026-11-21",
