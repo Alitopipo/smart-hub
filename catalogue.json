@@ -125,6 +125,11 @@
       "options": "/TASKS=\"bureau\"",
       "historique": [
         {
+          "version": "1.0.3",
+          "date": "2026-11-25",
+          "notes": "Optimiser le PC refait : 9 sous-menus (processeur, carte graphique, mémoire, alimentation, Windows, gaming, profils, mesure des gains). La croix garde l'appli près de l'horloge. Espace à libérer corrigé après un nettoyage."
+        },
+        {
           "version": "1.0.2",
           "date": "2026-11-25",
           "notes": "Désinstallation entièrement automatique, page Nettoyage remise à zéro après chaque nettoyage, recherche de processus, plusieurs tâches en même temps, espace libérable calculé en direct"
@@ -140,12 +145,12 @@
           "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
         }
       ],
-      "version": "1.0.2",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.2/maintenance-pc-1.0.2.exe",
-      "sha256": "d130e6174751083ab1a5a9d6bcb4cd2d6a99e85d61ae3db54e3e44926c9b59bb",
-      "taille": 2194379,
+      "version": "1.0.3",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.3/maintenance-pc-1.0.3.exe",
+      "sha256": "b76348cf35c76c58d229923717ebd9481b44b5bf6d227c3dced58d5b3bf20bb7",
+      "taille": 2236208,
       "date": "2026-11-25",
-      "notes": "Désinstallation entièrement automatique, page Nettoyage remise à zéro après chaque nettoyage, recherche de processus, plusieurs tâches en même temps, espace libérable calculé en direct"
+      "notes": "Optimiser le PC refait : 9 sous-menus (processeur, carte graphique, mémoire, alimentation, Windows, gaming, profils, mesure des gains). La croix garde l'appli près de l'horloge. Espace à libérer corrigé après un nettoyage."
     }
   ]
 }
