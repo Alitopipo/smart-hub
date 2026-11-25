@@ -125,17 +125,22 @@
       "options": "/TASKS=\"bureau\"",
       "historique": [
         {
+          "version": "1.0.1",
+          "date": "2026-11-25",
+          "notes": "Nouveau : « Quitter Maintenance PC » dans le menu de l'icône près de l'horloge"
+        },
+        {
           "version": "1.0.0",
           "date": "2026-11-25",
           "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
         }
       ],
-      "version": "1.0.0",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.0/maintenance-pc-1.0.0.exe",
-      "sha256": "b6015944d08a343f65861050fb51a647c531d155f98d51f4ebd965a8571ca77f",
-      "taille": 2193081,
+      "version": "1.0.1",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.1/maintenance-pc-1.0.1.exe",
+      "sha256": "dd0817f91c8a3598af7332a8e1025d3f8a31d66ffca23a09d978f80ede584df4",
+      "taille": 2193241,
       "date": "2026-11-25",
-      "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
+      "notes": "Nouveau : « Quitter Maintenance PC » dans le menu de l'icône près de l'horloge"
     }
   ]
 }
