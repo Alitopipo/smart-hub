@@ -125,14 +125,14 @@
       "options": "/TASKS=\"bureau\"",
       "historique": [
         {
+          "version": "1.0.3",
+          "date": "2026-11-25",
+          "notes": "Un seul programme : la surveillance Vigile tourne dans Maintenance PC. Beaucoup moins de mémoire quand la fenêtre est fermée."
+        },
+        {
           "version": "1.0.4",
           "date": "2026-11-25",
           "notes": "Smart Hub peut maintenant fermer Maintenance PC et sa surveillance Vigile pour les mises à jour, puis le relancer"
-        },
-        {
-          "version": "1.0.3",
-          "date": "2026-11-25",
-          "notes": "Optimiser le PC refait : 9 sous-menus (processeur, carte graphique, mémoire, alimentation, Windows, gaming, profils, mesure des gains). La croix garde l'appli près de l'horloge. Espace à libérer corrigé après un nettoyage."
         },
         {
           "version": "1.0.2",
@@ -150,12 +150,12 @@
           "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
         }
       ],
-      "version": "1.0.4",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.4/maintenance-pc-1.0.4.exe",
-      "sha256": "eae5049de11076414604506640522f25e72c8a89e49582bbb237b0ca90717ede",
-      "taille": 2236568,
+      "version": "1.0.3",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.3/maintenance-pc-1.0.3.exe",
+      "sha256": "0b9575705f7eea2860f8263aa129977c3398dfbcab6d91e678cb1ee79a01b05f",
+      "taille": 2238009,
       "date": "2026-11-25",
-      "notes": "Smart Hub peut maintenant fermer Maintenance PC et sa surveillance Vigile pour les mises à jour, puis le relancer"
+      "notes": "Un seul programme : la surveillance Vigile tourne dans Maintenance PC. Beaucoup moins de mémoire quand la fenêtre est fermée."
     }
   ]
 }
