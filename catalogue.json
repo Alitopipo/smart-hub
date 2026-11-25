@@ -18,12 +18,17 @@
       "type": "exe",
       "dossier": "{localappdata}\\Programs\\MineTrad",
       "exe": "MineTrad.exe",
-      "version": "1.0.1",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/minetrad-1.0.1/minetrad-1.0.1.exe",
-      "sha256": "da4bb9d0f18efb179288aada9a662113fefffde03dfdad4a1bcada2223067bfc",
-      "taille": 31478892,
-      "date": "2026-11-21",
+      "version": "1.0.2",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/minetrad-1.0.2/minetrad-1.0.2.exe",
+      "sha256": "0e5228d0f1bbe7bcf054bec12037cd52a361d8c503120cb95a41a52f0058513d",
+      "taille": 31480026,
+      "date": "2026-11-25",
       "historique": [
+        {
+          "version": "1.0.2",
+          "date": "2026-11-25",
+          "notes": "Fenêtre agrandissable : bouton Agrandir, ou F11 pour le plein écran (Échap pour sortir)."
+        },
         {
           "version": "1.0.1",
           "date": "2026-11-21",
@@ -35,7 +40,7 @@
           "notes": "Première version dans Smart Hub (33 langues)"
         }
       ],
-      "notes": "Nouveau logo"
+      "notes": "Fenêtre agrandissable : bouton Agrandir, ou F11 pour le plein écran (Échap pour sortir)."
     },
     {
       "id": "lanceur-sparking",
