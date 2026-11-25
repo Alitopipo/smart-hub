@@ -125,6 +125,11 @@
       "options": "/TASKS=\"bureau\"",
       "historique": [
         {
+          "version": "1.0.2",
+          "date": "2026-11-25",
+          "notes": "Désinstallation entièrement automatique, page Nettoyage remise à zéro après chaque nettoyage, recherche de processus, plusieurs tâches en même temps, espace libérable calculé en direct"
+        },
+        {
           "version": "1.0.1",
           "date": "2026-11-25",
           "notes": "Nouveau : « Quitter Maintenance PC » dans le menu de l'icône près de l'horloge"
@@ -135,12 +140,12 @@
           "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
         }
       ],
-      "version": "1.0.1",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.1/maintenance-pc-1.0.1.exe",
-      "sha256": "dd0817f91c8a3598af7332a8e1025d3f8a31d66ffca23a09d978f80ede584df4",
-      "taille": 2193241,
+      "version": "1.0.2",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.2/maintenance-pc-1.0.2.exe",
+      "sha256": "d130e6174751083ab1a5a9d6bcb4cd2d6a99e85d61ae3db54e3e44926c9b59bb",
+      "taille": 2194379,
       "date": "2026-11-25",
-      "notes": "Nouveau : « Quitter Maintenance PC » dans le menu de l'icône près de l'horloge"
+      "notes": "Désinstallation entièrement automatique, page Nettoyage remise à zéro après chaque nettoyage, recherche de processus, plusieurs tâches en même temps, espace libérable calculé en direct"
     }
   ]
 }
