@@ -1,12 +1,12 @@
 {
   "format": 1,
   "hub": {
-    "version": "1.4.2",
-    "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/hub-1.4.2/hub-1.4.2.exe",
-    "sha256": "099bfaada326db3fd9056f58ed42cf7c7d3f11e3014917bba81b4c7dd9d20917",
+    "version": "1.4.3",
+    "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/hub-1.4.3/hub-1.4.3.exe",
+    "sha256": "7923c69da54ec93df2437e415e9a36c0588c43db6b14a50ab37e069504a91648",
     "nom": "Smart Hub",
-    "taille": 21970231,
-    "date": "2026-11-22"
+    "taille": 21971441,
+    "date": "2026-11-25"
   },
   "apps": [
     {
