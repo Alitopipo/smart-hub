@@ -112,6 +112,30 @@
         }
       ],
       "notes": "Corrige les plantages en combat avec des IA (le jeu plantait apres 30 s a 1 min)"
+    },
+    {
+      "id": "maintenance-pc",
+      "nom": "Maintenance PC",
+      "resume": "Nettoie, répare et protège ton PC",
+      "description": "Libère de l'espace, désinstalle les logiciels sans laisser de restes, répare Windows, optimise le démarrage et protège le PC avec l'antivirus Vigile intégré.",
+      "icone": "icones/maintenance-pc.png",
+      "type": "installateur",
+      "dossier": "{localappdata}\\Programs\\MaintenancePC",
+      "exe": "MaintenancePC.exe",
+      "options": "/TASKS=\"bureau\"",
+      "historique": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-25",
+          "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
+        }
+      ],
+      "version": "1.0.0",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.0/maintenance-pc-1.0.0.exe",
+      "sha256": "b6015944d08a343f65861050fb51a647c531d155f98d51f4ebd965a8571ca77f",
+      "taille": 2193081,
+      "date": "2026-11-25",
+      "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
     }
   ]
 }
