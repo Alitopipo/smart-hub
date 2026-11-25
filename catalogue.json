@@ -125,6 +125,11 @@
       "options": "/TASKS=\"bureau\"",
       "historique": [
         {
+          "version": "1.0.4",
+          "date": "2026-11-25",
+          "notes": "Smart Hub peut maintenant fermer Maintenance PC et sa surveillance Vigile pour les mises à jour, puis le relancer"
+        },
+        {
           "version": "1.0.3",
           "date": "2026-11-25",
           "notes": "Optimiser le PC refait : 9 sous-menus (processeur, carte graphique, mémoire, alimentation, Windows, gaming, profils, mesure des gains). La croix garde l'appli près de l'horloge. Espace à libérer corrigé après un nettoyage."
@@ -145,12 +150,12 @@
           "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
         }
       ],
-      "version": "1.0.3",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.3/maintenance-pc-1.0.3.exe",
-      "sha256": "b76348cf35c76c58d229923717ebd9481b44b5bf6d227c3dced58d5b3bf20bb7",
-      "taille": 2236208,
+      "version": "1.0.4",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.4/maintenance-pc-1.0.4.exe",
+      "sha256": "eae5049de11076414604506640522f25e72c8a89e49582bbb237b0ca90717ede",
+      "taille": 2236568,
       "date": "2026-11-25",
-      "notes": "Optimiser le PC refait : 9 sous-menus (processeur, carte graphique, mémoire, alimentation, Windows, gaming, profils, mesure des gains). La croix garde l'appli près de l'horloge. Espace à libérer corrigé après un nettoyage."
+      "notes": "Smart Hub peut maintenant fermer Maintenance PC et sa surveillance Vigile pour les mises à jour, puis le relancer"
     }
   ]
 }
