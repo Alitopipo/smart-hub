@@ -125,6 +125,11 @@
       "options": "/TASKS=\"bureau\"",
       "historique": [
         {
+          "version": "1.0.5",
+          "date": "2026-11-25",
+          "notes": "Un seul programme : la surveillance Vigile tourne dans Maintenance PC. Beaucoup moins de mémoire quand la fenêtre est fermée."
+        },
+        {
           "version": "1.0.3",
           "date": "2026-11-25",
           "notes": "Un seul programme : la surveillance Vigile tourne dans Maintenance PC. Beaucoup moins de mémoire quand la fenêtre est fermée."
@@ -150,9 +155,9 @@
           "notes": "Première version dans Smart Hub (antivirus Vigile inclus)"
         }
       ],
-      "version": "1.0.3",
-      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.3/maintenance-pc-1.0.3.exe",
-      "sha256": "0b9575705f7eea2860f8263aa129977c3398dfbcab6d91e678cb1ee79a01b05f",
+      "version": "1.0.5",
+      "fichier": "https://github.com/Alitopipo/smart-hub/releases/download/maintenance-pc-1.0.5/maintenance-pc-1.0.5.exe",
+      "sha256": "dd81a1522467577a27f13e5f91b5978e6b74c774e63c7561cb4f5217cb4574c5",
       "taille": 2238009,
       "date": "2026-11-25",
       "notes": "Un seul programme : la surveillance Vigile tourne dans Maintenance PC. Beaucoup moins de mémoire quand la fenêtre est fermée."
